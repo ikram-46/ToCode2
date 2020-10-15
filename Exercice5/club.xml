@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Club clubId="ACM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:noNamespaceSchemaLocation="file:///D:\Ikram_Data\enicarthage\3éme ing info\SOC\chapitre 2\ToCode\ToCode2\Exercice5/schema.xsd">
+   
+<Member id="_12345" clubs="ACM">
+   <Name>
+      <FirstName>WEB</FirstName>
+      <MiddleInitial>H</MiddleInitial>
+      <LastName>DO</LastName>
+   </Name>
+   </Member>
+</Club>
